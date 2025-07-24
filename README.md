@@ -37,8 +37,8 @@ This Power BI project explores the **influence of regional food habits on health
 
 **Live Dashboard**: [View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODMxYjVmNzAtNjliNS00OWE3LThlOTMtYTk3YmI2ODQ2MWMyIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D)
 
+![Power BI Dashboard](Screenshot%202025-07-24%20201922.png)
 
-![Dashboard Screenshot]([Screenshot%202025-07-24%20201922.png])
 
 ---
 
