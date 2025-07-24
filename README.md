@@ -1,20 +1,83 @@
-# Food_impact_on_Indians
-Project Overview:
-This project focuses on analyzing the environmental and nutritional impact of food consumption in India. By utilizing a variety of datasets, I created an interactive Power BI dashboard that highlights key metrics such as carbon footprint, water usage, and nutrient availability linked to food production and consumption patterns across different regions of India.
+# 🥗 Food Impact Analysis Across India
 
-Key Features:
-Data-driven insights on food-related sustainability and health
+This Power BI project explores the **influence of regional food habits on health and lifestyle across India** using demographic and nutritional datasets.
 
-Visualization of food consumption trends and their environmental impact
+![Power BI Dashboard](dashboard.png)
 
-Recommendations for sustainable food choices and public health strategies
+---
 
-Technologies Used:
-Power BI for data visualization and dashboard creation
+## 📌 Project Overview
 
-Data analysis using Excel and SQL
+- 📍 **Objective**: To uncover correlations between dietary patterns and health outcomes across different Indian states and union territories.
+- 📊 **Tool Used**: Microsoft Power BI  
+- 📁 **Dataset Size**: 6,300+ food & health records
+- 🌐 **Regions Covered**: 36 states/UTs across India
 
-Integration of various public datasets related to food, environment, and health in India
+---
 
-Impact:
-This project aims to contribute to policy discussions surrounding sustainable agriculture and nutrition in India, making it a valuable tool for stakeholders in government, health, and the food industry.
+## 💡 Key Insights
+
+- Uncovered **15+ significant correlations** between regional dietary habits and health conditions like **diabetes, anemia, obesity**, and **malnutrition**.
+- Identified **macro-nutrient imbalances** (high carbs, low protein, excess fats) by region.
+- Highlighted **zone-wise dietary risks** through thematic maps and custom visuals.
+
+---
+
+## 🔧 Features
+
+- ✅ 5+ Custom visuals for better data storytelling  
+- ✅ Interactive zone-wise filters for regional comparisons  
+- ✅ Responsive layout for seamless navigation  
+- ✅ Nutrient-wise heatmaps for quick visual analysis  
+- ✅ Clean design with thematic elements enhancing user focus  
+
+---
+
+## 📷 Dashboard Preview
+
+**Live Dashboard**: [View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODMxYjVmNzAtNjliNS00OWE3LThlOTMtYTk3YmI2ODQ2MWMyIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D)
+
+
+![Dashboard Screenshot](dashboard.png)
+
+---
+
+## 📁 Dataset
+
+The dataset includes:
+- Nutritional components (calories, protein, fat, carbs)
+- Health indicators (diabetes, anemia, BMI, lifestyle scores)
+- State-wise demographic breakdown
+
+> File: `food_impact_india.csv`
+
+---
+
+## 📈 Impact
+
+- 🧠 Helped identify **top 3 dietary issues** per zone
+- 📍 Supported **2+ actionable insights** used in policy discussions and awareness initiatives
+- 🏥 Promoted **data-driven decisions** for health interventions and nutrition programs
+
+---
+
+## 🚀 How to Use
+
+1. Clone this repository
+2. Open Power BI Desktop
+3. Load `food_impact_india.csv`
+4. Recreate or explore visuals based on shared screenshots or PBIX file (if shared separately)
+
+---
+
+## 🙋‍♂️ Author
+
+**Abhishek Ranjan**  
+📧 [Email](mailto:abhisheksingh70224@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/abhishekranjan20/) 
+
+---
+
+## ⭐ If you liked this project
+
+Give a ⭐ to support and help others discover it!
+
