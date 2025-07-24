@@ -42,14 +42,16 @@ This Power BI project explores the **influence of regional food habits on health
 
 ---
 
-## 📁 Dataset
+## 📂 Dataset
 
 The dataset includes:
+
 - Nutritional components (calories, protein, fat, carbs)
 - Health indicators (diabetes, anemia, BMI, lifestyle scores)
 - State-wise demographic breakdown
 
-> File: `food_impact_india.csv`
+📁 **Download**: [food_impact_india.csv](./food_impact_india.csv)
+
 
 ---
 
