@@ -2,7 +2,7 @@
 
 This Power BI project explores the **influence of regional food habits on health and lifestyle across India** using demographic and nutritional datasets.
 
-![Power BI Dashboard](dashboard.png)
+![Power BI Dashboard](Screenshot%202025-07-24%20201922.png)
 
 ---
 
